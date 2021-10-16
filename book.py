@@ -29,8 +29,3 @@ def Word_Cal(text):
 
 
 print(Word_Cal(text))
-
-
-
-
-print(Word_Cal(text))
