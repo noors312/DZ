@@ -26,6 +26,7 @@ def Word_Cal(text):
                 dic[x] += 1
     return dic
 
+# Ты мог бы решить это в один цикл, если бы использовал dic.get(x)
 
 
 print(Word_Cal(text))
